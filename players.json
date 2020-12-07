@@ -1,0 +1,119 @@
+{
+    "firstname": "Sergio",
+    "lastname": "Ramos",
+    "Role": "Defender",
+    "TotalGoals": 100, 
+    "TotalAssists": 0, 
+    "TotalClearances": 0, 
+    "TotalInterceptions": 3, 
+    "TotalDribblesCreated": 2
+},
+{
+    "firstname": "Eden",
+    "lastname": "Hazard", 
+    " Role": "Forward", 
+    " TotalGoals": 2, 
+    " TotalAssists": 0, 
+    " TotalInterceptions": 0, 
+    "TotalDribblesCreated": 0
+    }, 
+    {
+        "firstname": "Karim", 
+        "lastname": "Benzema", 
+        " Role": "Forward", 
+        " TotalGoals": 255, 
+        "TotalAssists": 3, 
+        "TotalClearances: 6, 
+        "TotalInterceptions": 1, 
+        "TotalDribblesCreated": 11
+    },
+    {
+        "firstname": "Vinicius",
+        "lastname": "Junior",
+        "Role": "Forward",
+        "TotalGoals": 11,
+        "TotalAssists": 0,
+        "TotalsClearances": 0,
+        "TotalInterceptions": 1,
+        "TotalDribblesCreated": 11
+    },  
+    {
+        " firstname": "Martin", 
+        " lastname": "Odegaard",
+        "Role": "Midfielder",
+        "TotalGoals": 0,
+        "TotalAssists": 0,
+        "TotalClearances": 0,
+        "TotalInterceptions": 0,
+        "TotalDribblesCreated": 0
+    },
+    {
+        "firstname": "Rodrygo",
+        "lastname": "None",
+        "Role": "Forward",
+        "TotalGoals": 8,
+        "TotalAssists": 3,
+        "TotalClearances": 1,
+        "TotalInterceptions": 3,
+        "TotalDribblesCreated": 4
+    },
+    {
+        "firstname": "Luka",
+        "lastname": "Jovic",
+        "Role": "Forward",
+        "TotalGoals": 2,
+        "TotalAssists": 0,
+        "TotalClearances": 1,
+        "TotalInterceptions": 0,
+        "TotalDribblesCreated": 0
+    },
+    {
+        "firstname": "Marcelo", 
+        "lastname": "Vieira",
+        "Role": "Defender",
+        "TotalGoals": 38,
+        "TotalAssists": 1,
+        "TotalClearances": 7,
+        "TotalInterceptions": 1,
+        "TotalDribblesCreated": 2
+    },
+    {
+        "firstname": "Raphael", 
+        "lastname": "Varane",
+        "Role": "Defender",
+        "TotalGoals": 15,
+        "TotalAssists": 0,
+        "TotalClearances": 43,
+        "TotalInterceptions": 5,
+        "TotalDribblesCreated": 1
+    },
+    {
+        "firstname": "Thibaut", 
+        "lastname": "Coutois",
+        "Role": "Goal Keeper",
+        "TotalGoals": 0,
+        "TotalAssists": 0,
+        "TotalsClearances": 6,
+        "TotalInterceptions": 0,
+        "TotalDribblesCreated": 0
+    },
+    {
+        "firstname": "Luka",
+        "lastname": "Modric",
+        "Role": "Midfielder",
+        "TotalGoals": 24,
+        "TotalAssists": 0,
+        "TotalClearances": 1,
+        "TotalInterceptions": 2,
+        "TotalDribblesCreated": 8
+    },
+    {
+        "firstname": "Isco",
+        "lastname": "None",
+        "Role": "Midfielder",
+        "TotalGoals": 51,
+        "TotalAssists": 0,
+        "TotalClearances": 1,
+        "TotalInterceptions": 1,
+        "TotalDribblesCreated": 1
+    }
